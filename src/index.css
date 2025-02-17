@@ -9,5 +9,70 @@ body {
 .common-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1.25rem; /* 5 */
+  padding: 1.25rem;
+}
+
+.star-wrapper {
+  position: absolute;
+  display: inline-block;
+  line-height: 0;
+  transition: transform 0.5s ease;
+}
+
+.star-dark, .star-orange {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+}
+
+.star-orange {
+  opacity: 0;
+}
+
+.star-wrapper:hover {
+  transform: scale(1.1);
+}
+
+.star-wrapper:hover .star-dark {
+  opacity: 0;
+}
+
+.star-wrapper:hover .star-orange {
+  opacity: 1;
+}
+
+/* Scrollbar styling for light mode */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-left: 1px solid;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #403D39;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #252422
+}
+
+/* Scrollbar styling for dark mode */
+.dark ::-webkit-scrollbar-track {
+  background: transparent;
+  border-left: 1px solid #463F35;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #463F35;
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #CD4F1D;
 }
