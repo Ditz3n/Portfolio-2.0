@@ -11,13 +11,13 @@
 ![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)
 ![EmailJs](https://img.shields.io/badge/EmailJs-ff8434?style=for-the-badge&logo=gmail&logoColor=white)
 
-<img src="src/assets/readme/img1.png" width="60%" style="border-radius: 48px;" />
+<img src="src/assets/readme/img1.png" width="60%" />
 
-<div style="margin-top: 20px;">
-  <a href="https://ditz3n.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Preview-Visit%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Live Preview" />
-  </a>
-</div>
+<br>
+
+<a href="https://ditz3n.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Preview-Visit%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Live Preview" />
+</a>
 
 </div>
 
