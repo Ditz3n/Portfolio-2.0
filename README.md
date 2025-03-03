@@ -13,7 +13,8 @@
 
 <img src="src/assets/readme/img1.png" width="60%" />
 
-<br>
+<br />
+<br />
 
 <a href="https://ditz3n.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Preview-Visit%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Live Preview" />
