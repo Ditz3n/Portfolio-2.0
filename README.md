@@ -3,7 +3,7 @@
 <img src="src/assets/images/emoji3.png" width="150" alt="Logo" />
 </a>
 
-**<h1> &lt;Portfolio 2.0 /&gt; </h1>**
+**`<h1>` &lt;Portfolio 2.0 /&gt; `</h1>`**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,8 +46,13 @@ Portfolio 2.0 is my modern, interactive personal portfolio website built with Re
 
 ## 📄 Release History
 
-- 1.0
-  - Release
+1.1
+
+- Fixed completion percentage and university link overlapping on smaller screen sizes
+
+  1.0
+
+- Release
 
 ## 🖊️ All Rights Reserved
 
