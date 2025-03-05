@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Ditz3n/Portfolio-2.0" target="blank">
-<img src="src/assets/images/emoji3.png" width="150" alt="Logo" />
+<img src="src/assets/images/emoji_computer_640x640.png" width="150" alt="Logo" />
 </a>
 
 **`<h1>` &lt;Portfolio 2.0 /&gt; `</h1>`**
@@ -46,11 +46,16 @@ Portfolio 2.0 is my modern, interactive personal portfolio website built with Re
 
 ## 📄 Release History
 
-1.1
+### 1.2
+
+- Fixed Memojis being low quality on some devices by upscaling the images
+- Updated the meteor effect with new styling, and fixed some spawning inside view
+
+### 1.1
 
 - Fixed completion percentage and university link overlapping on smaller screen sizes
 
-  1.0
+### 1.0
 
 - Release
 
